@@ -1,5 +1,5 @@
 package Main
 
 class Main {
-    val version = 1
+    val version = 3
 }
